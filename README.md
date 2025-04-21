@@ -1,23 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhinav Singh</h1>
-<h3 align="center">A Web Developer. I am also pursuing my Bachelors in Electronics and Communication Engineering and will graduate in 2026.</h3>
-
-- 💻 I’m currently working on **DesCo Website**
-
-- 🌱 I’m currently learning **AWS, Backend Development, Data Structures**
-
-- 👯 I have collaborated in [Byteverse Website](https://byteverse.vercel.app/)
-
-- 💬 Ask me about **Frontend Development and AWS**
-
-- 📫 How to reach me **abhinavs.ug22.ec@nitp.ac.in**
-
-- ⚡ Fun fact **I also expertise in Graphic Design.**
+<h3 align="center">I am pursuing my Bachelors in Electronics and Communication Engineering and will graduate in 2026.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhinav-singh-15a4a7258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-singh-15a4a7258" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vanibha_13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vanibha_13" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vanibha13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vanibha13" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mobkun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vanibha_13" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ableed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ableed" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ableed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ableed" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abhinavsmmc4/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhinavsmmc4/profile" height="30" width="40" /></a>
 </p>
