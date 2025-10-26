@@ -87,7 +87,7 @@
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="NodeJS-icon" height="45" title="Node.js"/>
     </a>&nbsp;
     <a href="https://expressjs.com/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Express-Dark.svg" alt="Express-icon" height="45" title="Express.js"/>
+      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express-icon" height="45" title="Express.js"/>
     </a>&nbsp;
     <a href="https://www.cplusplus.com/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++-icon" height="45" title="C++"/>
@@ -95,9 +95,6 @@
     <a href="https://www.python.org/" target="_blank">
       <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python-icon" height="45" title="Python"/>
     </a>&nbsp;
-    <a href="https://socket.io/" target="_blank">
-      <img align="center" style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SocketIO-Dark.svg" alt="SocketIO-icon" height="45" title="Socket.IO"/>
-S    </a>
   </p>
 </div>
 
@@ -123,13 +120,6 @@ S    </a>
   </p>
 </div>
 
-<!-- <div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=151923&height=2&section=header&%20render">
-  </a>
-</div> -->
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Abhinav1341" target="_blank">
@@ -144,7 +134,7 @@ S    </a>
 </div>  
 
 ## Github Stats  
-<div align="center"><img src="https://pixel-profile.vercel.app/api/github-stats?username=Abhinav1341" align="center" /></div> s 
+<div align="center"><img src="https://pixel-profile.vercel.app/api/github-stats?username=Abhinav1341" align="center" /></div> 
 
 ## My Coding Profiles
 <div align="center" style="margin-bottom: 20px;">
@@ -158,5 +148,5 @@ S    </a>
 
 <br/>
 <div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ableed" align="center" alt="Thank You for Visiting" />
+  <img src="https://github.com/Abhinav1341/Abhinav1341/blob/main/Donald%20Trump%20Thank%20You%20GIF%20by%20PBS%20News.gif" align="center" alt="Thank You for Visiting" />
 </div>
