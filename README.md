@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://giphy.com/gifs/ifc-ifc-FQyQEYd0KlYQ" align="center" style="width: 100%" />
+<img src="https://github.com/Abhinav1341/Abhinav1341/blob/main/Welcome%20Aboard%20Comedy%20Bang%20Bang%20GIF.gif" align="center" style="width: 80%" />
 </div>  
   
 
-### <div align="center">I'm Abhinav Singh, a final-year BTech Student and a full-stack developer.</div>  
+## <div align="center">I'm Abhinav Singh, a final-year BTech Student and a full-stack developer.</div>  
   
 
 - 🔭 I’m currently working on getting my Bachelors from NIT Patna.  
