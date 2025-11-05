@@ -133,11 +133,15 @@
 ## Github Stats  
 <div align="center"><img src="https://pixel-profile.vercel.app/api/github-stats?username=Abhinav1341" align="center" /></div> 
 
+## Badges
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://holopin.me/abhinav1341" align="center" />
+</div>
+
 ## My Coding Profiles
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://leetcard.jacoblin.cool/ableed" align="center" />
 </div>
-
 <br/>
 <div align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ableed" align="center" />
